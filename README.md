@@ -18,8 +18,8 @@ yarn add @hectortav/react-carousel
 ```tsx
 import React from 'react'
 
-import { Carousel, DataCardProps } from 'react-carousel'
-import 'react-carousel/dist/index.css'
+import { Carousel, DataCardProps } from '@hectortav/react-carousel'
+import '@hectortav/react-carousel/dist/index.css'
 
 const data: DataCardProps[] = [
   {

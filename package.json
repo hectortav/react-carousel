@@ -1,10 +1,14 @@
 {
-  "name": "react-carousel",
+  "name": "@hectortav/react-carousel",
   "version": "1.0.0",
   "description": "Lightweight and customizable carousel for React.",
-  "author": "hectortav",
+  "author": "Ektoras Tavoularis @hectortav",
   "license": "MIT",
-  "repository": "hectortav/react-carousel",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hectortav/react-carousel.git"
+  },
+  "homepage": "https://github.com/hectortav/react-carousel",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
